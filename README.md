@@ -1,3 +1,3 @@
 # languages
 
-意味はない
+拡張子とNerd fontを見る
